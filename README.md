@@ -80,7 +80,7 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 Below are sample screenshots of the Streamlit dashboard demonstrating different modules of the project.  
 All visuals are generated locally via [http://localhost:8501](http://localhost:8501).
