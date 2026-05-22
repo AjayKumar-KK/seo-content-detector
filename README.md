@@ -34,17 +34,12 @@ streamlit run app.py
    models/quality_model.pkl
    streamlit_app/models/quality_model.pkl
    ```
-3. Run Streamlit and open [http://localhost:8501](http://localhost:8501)
+3. Run Streamlit 
 4. Enter any webpage URL to analyze:
    - Get Word Count, Sentence Count, and Readability (FRE)
    - View Model & Rule-Based Quality Label (`High`, `Medium`, `Low`)
    - Detect near-duplicates and compare similarity scores
-
----
-
-## Deployed Streamlit URL
-> Local Deployment: [http://localhost:8501](http://localhost:8501)
-
+   
 ---
 
 ## Key Decisions
