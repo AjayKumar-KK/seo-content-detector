@@ -78,7 +78,6 @@ streamlit run app.py
 ## Dashboard Preview
 
 Below are sample screenshots of the Streamlit dashboard demonstrating different modules of the project.  
-All visuals are generated locally via [http://localhost:8501](http://localhost:8501).
 
 <p align="center">
   <img src="screenshots/overview_01.png" alt="Overview Dashboard" width="90%"/>
