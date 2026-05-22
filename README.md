@@ -103,7 +103,7 @@ Below are sample screenshots of the Streamlit dashboard demonstrating different 
 ---
 
 <p align="center">
-  <img src="screenshots/ summary.png" alt="Dataset Summary Page" width="90%"/>
+  <img src="screenshots/summary.png" alt="Dataset Summary Page" width="90%"/>
 </p>
 
 <p align="center">
